@@ -1,5 +1,5 @@
 # website_blocker
-This program blocks the browser from accessing sites like facebook, youtube, instagram by redirecting the URL to 127.0.0.1 with the help of "hosts.txt" file.
+### This program blocks the browser from accessing sites like facebook, youtube, instagram by redirecting the URL to 127.0.0.1 with the help of "hosts.txt" file.
 ## Running the program - 
 - Replace "ABSOLUTE_FILE_ADDRESS" with address of this file on your PC.  
 - Execute this file in cmd as an administrator.This file needs to be run as an administrator since appending "hosts.txt" need admin access.  
